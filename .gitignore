@@ -1,2 +1,6 @@
 .env
 tools/pq-signer/node_modules
+
+# build outputs y valores sensibles de forge script
+out/
+cache/
