@@ -1,0 +1,11 @@
+{
+  "name": "zynex-pq-signer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Firmas Lamport (post-cuánticas) para QuantumGuard de Zynex",
+  "bin": { "zynex-pq": "./cli.mjs" },
+  "dependencies": {
+    "viem": "2.51.3"
+  }
+}

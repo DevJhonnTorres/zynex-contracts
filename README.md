@@ -1,3 +1,8 @@
+# Zynex P2P — contratos
+
+- v1 (ECDSA): `src/` — desplegada en Base Sepolia (`deployments/base-sepolia.json`).
+- **v2 Quantum (ECDSA + Lamport post-cuántico)**: `src/quantum/` — ver [QUANTUM.md](./QUANTUM.md).
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
